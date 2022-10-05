@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 '''
 @Time    :   2022/06/14 15:33:57
-@Author  :   Chu Xioakai
+@Author  :   Chu Xiaokai
 @Contact :   xiaokaichu@gmail.com
 '''
 import argparse
